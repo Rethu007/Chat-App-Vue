@@ -12,7 +12,7 @@ This is a real-time chat application built using Vue.js and Socket.IO. Users can
 
 ## Technologies Used
 
-- Vue.js (with Vue CLI)
+- Vue.js (with VITE)
 - Socket.IO (for real-time WebSocket communication)
 - Node.js (for the backend server)
 - Express.js (for the backend server)
